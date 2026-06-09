@@ -8,7 +8,7 @@ Check out some of my repos!
 
 If you want to contact me you can email me [here](mailto:shakasante@gmail.com)
 
-I also have a older brother & hes into tech, check him out [here](https://github.com/AlvajoyAsante)
+I also have a older brother, check him out [here](https://github.com/AlvajoyAsante)
 
 <!--
 **ShakAsante/ShakAsante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
