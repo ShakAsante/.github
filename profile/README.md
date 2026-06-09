@@ -1,6 +1,6 @@
 ## Hi, I'm Shakinah👋
 
-I'm a game enthusiast and a aspiring fullstack-engineer, On the side however im also a student at North Carolina Agricultural and Technical. Im studying Computer Science, im looking forward to creating useful applications, ulilities, and packages, and maybe even make games.
+I'm a game enthusiast and a aspiring fullstack-engineer, On the side however im also a student at North Carolina Agricultural and Technical. I'm currently studying Computer Science, im looking forward to creating useful applications, ulilities, and packages, and maybe even make games.
 
 My current stack for web development is: React, Node, Express and Typescript
 
